@@ -13,4 +13,4 @@ A project done for Microsoft code.fun.do++ 2018 by Arshdeep Kainth, K. Hari Madh
       <p>Solace will primarily work on the map of the area. Notifications and alerts are pinpointed on the map through their locations. The map will operate on separate layers of data such as: disaster incidents, resource request or donation, which can be obtained from the above mentioned surveys. It can also mark disease outbreaks in order to control them, and mark sites of important emergency places, like hospitals, police and fire stations, amongst others.</p></li>
   </ul>
   
-
+Thus, through Solace, we hope to improve communication and coordiantion between people during disasters, thus reducing the impact of the disaster, and being a solace to the people.
